@@ -1,5 +1,6 @@
 require 'watir-webdriver'
 require 'nokogiri'
+require 'assertions'
 module HasBrowser
 @@browser = Watir::Browser.new :chrome
 at_exit { @@browser.close }
