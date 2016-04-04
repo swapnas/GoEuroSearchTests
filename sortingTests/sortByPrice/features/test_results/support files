@@ -1,0 +1,14 @@
+To Run the given test case you will need to have the following installed:
+
+• Watir (Web Application Testing in Ruby),a programmer-friendly inbrowser
+test library
+• WebDriver, a cross-platform API for controlling web browsers
+• Watir WebDriver,a Watir implementation that uses WebDriver under
+the hood
+• Nokogiri, a Ruby library for parsing HTML results
+• (Chrome users) ChromeDriver, a stand-alone program that helps Watir
+control Google Chrome
+
+The feature files are saved in GoEuroSearchTests/sortingTests/sortByPrice/features
+
+The step defifnitions are stores in GoEuroSearchTests/sortingTests/sortByPrice/features/step_definintions

@@ -1,6 +1,3 @@
-# GoEuroSearchTests
-Cucumber automation tests for the search results page of GoEuro
-
 The automation test cases in this repository are using Cucumber framework. (www.cucumber.io)
 
 To Run the given test case you will need to have the following installed:
